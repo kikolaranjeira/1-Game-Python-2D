@@ -14,7 +14,7 @@ Adventure - The Game is a 2D platformer built using Python and Pygame. The proje
 ## 🚀 Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Ykikolaranjeeira/1-Game-Python-2D.git
+   git clone https://github.com/kikolaranjeira/1-Game-Python-2D.git
    cd adventure-game
    ```
 
