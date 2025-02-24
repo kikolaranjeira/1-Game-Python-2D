@@ -1,14 +1,47 @@
-# Python-Platformer
+# Adventure - The Game
 
-# 💻 Launch Your Software Development Career Today!  
+Adventure - The Game is a 2D platformer built using Python and Pygame. The project is currently in development and will be expanded with more features over time.
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+![Screenshot_5](https://github.com/user-attachments/assets/009c86c8-0eba-4712-98ac-9bfbab478bda)
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
 
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+## 🕹 Features
+- Player movement with jumping and double jumping.
+- Collision detection with blocks and obstacles.
+- Animated fire traps.
+- Side-scrolling mechanics.
+
+## 🚀 Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Ykikolaranjeeira/1-Game-Python-2D.git
+   cd adventure-game
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install pygame
+   ```
+
+3. **Run the game:**
+   ```bash
+   python main.py
+   ```
+
+## 🎮 Controls
+- **Left Arrow** → Move left
+- **Right Arrow** → Move right
+- **Spacebar** → Jump (Double jump available)
+
+## 📌 To-Do List
+- [ ] Add enemies
+- [ ] Implement power-ups
+- [ ] Add background music and sound effects
+- [ ] Create more levels
+
+## 📜 License
+This project is open-source and available under the MIT License.
+
+---
+💡 Feel free to contribute and improve the game!
+
