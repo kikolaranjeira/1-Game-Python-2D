@@ -52,16 +52,16 @@ def get_block(size, tipo="terreno_vermelho"):
 
     # Dicionário com as coordenadas de cada bloco
     blocos = {
-        "pedra": (192, 64),   # Bloco normal que já estavas a usar
-        "pedra1": (0, 0),  # Bloco de tijolo vermelho
+        "pedra": (192, 64),
+        "pedra1": (0, 0),  
         "terreno_vermelho": (96, 64),
         "Tijolo": (288, 64),
-        "terreno_verde": (96, 0),   # Exemplo de outro bloco (ajustar conforme necessário)
-        "dourado": (288, 128),  # Exemplo de outro bloco (ajustar conforme necessário)
+        "terreno_verde": (96, 0), 
+        "dourado": (288, 128),  
     }
 
     if tipo not in blocos:
-        tipo = "padrao"  # Caso o tipo não exista, usa o bloco padrão
+        tipo = "padrao"
 
     x, y = blocos[tipo]
 
